@@ -1,5 +1,6 @@
 image: ruby
 
+
 pages:
   stage: build
   script:
